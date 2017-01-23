@@ -1,0 +1,24 @@
+body{
+  margin:0px;
+}
+.a{
+  width:155px; background:#d7e7f4;float:left; height:750px;display:inline-block;
+}
+.b{
+   width:954px; height:750px;display:inline-block;
+}
+.c{
+   background:#d7e7f4;width:155px; float:right; height:750px; padding:0px;
+}
+img{
+ padding-left:22px;
+}
+
+.d{
+  
+  display:inline-block; float:right; padding-top:5px; text-align:right;
+} 
+.button
+{
+   background-color:#007BAF; border:none; height:1.7em;  color:white;
+}
